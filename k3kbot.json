@@ -1,0 +1,10 @@
+{
+	"k3kbot": [{
+		"repo-url":"https://github.com/0x00sec/k3kBot",
+		"description":"Badass Malware started by DTM",
+		"version":1.0,
+		"contributors":[
+			"@93aef0ce4dd141ece6f5 (dtm)"
+		]
+	}]
+}

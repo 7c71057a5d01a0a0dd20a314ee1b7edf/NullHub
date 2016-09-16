@@ -1,0 +1,10 @@
+{
+	"null-get": [{
+		"repo-url":"https://github.com/1fbff5f83b23d39d38b1dfcb4cac8d9b/jubilant-pancake",
+		"description":"Alternative 0x00sec package manager.",
+		"version":0,
+		"contributors":[
+			"JSchmoe"
+		]
+	}]
+}
