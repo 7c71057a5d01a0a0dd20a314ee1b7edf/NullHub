@@ -1,0 +1,10 @@
+{
+	"AdminFinder": [{
+		"repo-url":"https://github.com/indranilbanerjee/AdminFinder",
+		"description":"An AdminFinder written in Perl",
+		"version":1,
+		"contributors":[
+			"indranilbanerjee"
+		]
+	}]
+}
