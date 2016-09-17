@@ -1,0 +1,10 @@
+{
+	"SSMA:" [{
+		"repo-url":"https://github.com/secrary/SSMA",
+		"description":"SSMA - Simple Static Malware Analyzer",
+		"version":1,
+		"contributors":[
+			"secrary"
+		]
+	}]
+}
